@@ -1,5 +1,7 @@
 ## Hi there 👋
+My name is Chaeyoung Woo.
 
+🌱 I’m currently learning C, C++
 <!--
 **chaeyoung05/chaeyoung05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
